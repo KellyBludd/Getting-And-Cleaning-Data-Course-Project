@@ -8,4 +8,4 @@ The run_analysis.R script which can be used to assemble the complete data set fo
 
 There is a CodeBook.md file that explains the variables and the work done to assemble and clean the data  
 
-To load the tidy data set, you can use the following command: read.table("TidyDataSet.txt") from your working directory.  
+To load the tidy data set, you can use the following command: read.table("TidyDataSet.txt", header=TRUE) from your working directory.  
