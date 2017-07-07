@@ -1,4 +1,4 @@
-##CodeBook for Course Project 
+# CodeBook for Course Project 
 
 The data is a set of measurements from the accelerometer and gyroscope of a Samsung Galaxy SII for 30 subjects while performing 6 different activities.  
 
