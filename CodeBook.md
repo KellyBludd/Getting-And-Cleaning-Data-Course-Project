@@ -35,7 +35,7 @@ the Activity and Subject columns.
 
 The next step is to only extract the mean and standard deviation for each measurement and create a new data frame with just these variables.
 
-Then we use the activity_labels.txt file to replace the activity identifiers with the descriptive names. 
+Then we use the activity_labels.txt file to replace the activity identifiers with the descriptive names. The resulting data frame is 
+called data_mean_std
 
-Finally, we create a tidy data set with the mean for each activity/subject combination on every measurement variable. And then write
-it to a file. 
+Finally, we create a tidy data set with the mean for each activity/subject combination on every measurement variable (called tidy_data_means). And then write it to a file. 
